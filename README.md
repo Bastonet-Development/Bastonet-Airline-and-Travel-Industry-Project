@@ -39,13 +39,13 @@ Loyalty and Air Miles Reward Programme:
 Air miles as a currency shall be replaced by the BSN token. Instead of ‘earning’ miles, the Bastonet platform will allow customers to buy them using the Baston Tokens, BSN in the same way they can exchange currency today, or could earn them outside of flying alone if they select to be paid in air miles denominated in BSN tokens for services.  In traditional loyalty point’s schemes, travelers often have a long waiting time before they can use their points, with limitation on spending avenues. By tokenizing loyalty points on the blockchain using the BSN tokens, travelers can get instant value by redeeming them on the spot. They can also use them more broadly through a specific user community of partners since these tokens will be traded on exchanges. The BSN tokens will be used in paying for goods and services in a secured and fast way. 
 
 Other use case areas of the Bastonet App will include: 
-Airport Collaborative Decision Making (ACDM)
-Airline Ancillary Revenue Generation
-Management of In-Flight Entertainment 
-Fast Insurance and Compensation
-ManagementFlight Planning
+Airport Collaborative Decision Making (ACDM),  
+Airline Ancillary Revenue Generation,  
+Management of In-Flight Entertainment,    
+Fast Insurance and Compensation,  
+ManagementFlight Planning,  
 Chattering Services,
-Luggage Handling and Control
+Luggage Handling and Control,  
 Cargo and Custom Clearing etc.  
 
 A detailed whitepaper of this project is undergoing development and will be presented to the public at a later time.
